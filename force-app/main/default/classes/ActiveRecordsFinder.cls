@@ -7,7 +7,7 @@
  *               Contact uses boolean field vlocity_cmt__IsActive__c = true.
  * @Test class : ActiveRecordsFinderTest
  * @History:
- *   <Date>      <Authors Name>     <Brief Description of Change>
+ *   <Date>      <Authors Name>     <Brief Description of Change> test
  *
  *********************************************************************************************************************/
 public with sharing class ActiveRecordsFinder {
